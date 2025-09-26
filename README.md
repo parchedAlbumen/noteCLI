@@ -1,2 +1,2 @@
 # noteCLI
-A command line interfacce that does a lot of stuff xd 
+A command line interfacce that will do a lot of stuff,, life just been life-ing rn
